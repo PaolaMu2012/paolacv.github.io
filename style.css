@@ -1,0 +1,75 @@
+.foto{
+    width: 200px;
+    height: 250px;
+    border-radius: 250px;
+    margin-top: 25px;
+    background-color:#ECB8F9  ;
+   
+}
+
+.nom{
+    display: flex;
+    background-color: #C143DF   ;
+}
+.letras{
+    
+    padding: 55px;
+}
+.nombre{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+.carrera{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30;
+}
+.icon{
+    width: 80;
+    right: 80;
+    margin-right: 10px;
+    border-radius: 45px;
+    
+    
+}
+.icp{
+    margin-top: 20px;
+    width: 30;
+    right: 30;
+    margin-right: 15px;
+    border-radius: 20PX;
+}
+.costado{
+    display: flex;
+    background-color: #E8ADF7 ;
+   
+    
+    
+
+}
+.costados{
+    display: flex;
+}
+.izq{
+    margin-top: 10px;
+    width: 50%;
+    background-color:#B711E0  ;
+    
+}
+.derecha{
+    
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #F4D6FC ;
+    
+    
+}
+#division{
+    display: flex;
+    
+    
+}
+.parra{
+    font-size: 18;
+}
+
